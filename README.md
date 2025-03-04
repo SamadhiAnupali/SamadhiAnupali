@@ -3,8 +3,9 @@
 
 ### Creative UI/UX Designer | Frontend Developer | Tech Enthusiast  
 
-![Design Mode](https://your-image-link.png)  
-<img align="right" alt="Designer" width="200" height="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png">
+![Design Mode]([https://your-image-link.png]([https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png)))  
+
+
 
 
 ## 🚀 About Me  
