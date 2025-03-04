@@ -42,8 +42,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
-
-> ✨ **Tip**: Make sure to upload missing images to **Imgur**, **GitHub Issues**, or any image-hosting service, and replace `"your-image-link.png"` in the code above.  
-
-Let me know if you need any modifications! 🚀
