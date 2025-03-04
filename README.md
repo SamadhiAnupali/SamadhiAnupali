@@ -1,9 +1,9 @@
 # Hi 👋, I'm Samadhi Anupali Jayasinghe  
 <h3>Undergraduate at University of Moratuwa, Faculty of Information Technology.</h3>
-
+<img align="right" alt="Waving Hand" width="200" height="200" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 ### Creative UI/UX Designer | Frontend Developer | Tech Enthusiast  
 
-<img align="right" alt="Waving Hand" width="200" height="200" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+
 
 
 ## 🚀 About Me  
