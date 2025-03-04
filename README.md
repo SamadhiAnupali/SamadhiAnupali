@@ -3,7 +3,7 @@
 
 ### Creative UI/UX Designer | Frontend Developer | Tech Enthusiast  
 
-<img align="right" alt="Creative" width="200" height="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png">
+<img align="right" alt="Waving Hand" width="200" height="200" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
 
 ## 🚀 About Me  
