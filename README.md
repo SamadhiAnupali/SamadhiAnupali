@@ -5,13 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamadhiAnupali&label=Profile%20views&color=0e75b6&style=flat" alt="SamadhiAnupali" /> </p>
 
 
-## 🚀 About Me  
-- 🎨 Passionate about **designing intuitive and user-friendly interfaces**.    
-- 🔍 Interested in **Web & Mobile UI/UX, Design Systems, and Prototyping**.  
-- 🎨 All my projects are available on **[Behance](https://www.behance.net/YOUR_PROFILE)**.  
-- ✍️ I write about UI/UX on **[Medium](https://medium.com/@YOUR_PROFILE)**.  
-- 💬 Ask me about **Figma, Adobe XD, Frontend Development, and User Research**.  
-- 📩 How to reach me: **samadhi.anupali@gmail.com**  
+## 🚀 About Me      
+- 🎨 All my projects are available on **[Behance]([https://www.behance.net/YOUR_PROFILE](https://www.behance.net/samadhianupali))**.  
+- ✍️ I write about UI/UX on **[Medium]([https://medium.com/@YOUR_PROFILE](https://medium.com/@samadhianupali))**.  
+- 📩 How to reach me: **samadhianupali@gmail.com**  
 
 ---
 
