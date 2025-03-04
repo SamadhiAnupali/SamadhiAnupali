@@ -1,10 +1,8 @@
 # Hi <img alt="Waving Hand" width="50" height="50" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm Samadhi Anupali
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamadhiAnupali&label=Profile%20views&color=0e75b6&style=flat" alt="SamadhiAnupali" /> </p>
 
-
-## 🚀 About Me      
+     
 - 🎨 All my projects are available on **[Behance](https://www.behance.net/samadhianupali)**.  
 - ✍️ I write about UI/UX on **[Medium](https://medium.com/@samadhianupali)**.  
 - 🌐 Check out my portfolio: **[Portfolio](https://samadhianupali.github.io/MYPORTFOLIO1/)**  
