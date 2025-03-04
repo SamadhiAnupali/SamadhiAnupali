@@ -3,7 +3,7 @@
 
 ### Creative UI/UX Designer | Frontend Developer | Tech Enthusiast  
 
-<img align="right" alt="Light Bulb" width="200" height="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png">
+<img align="right" alt="Creative" width="200" height="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png">
 
 
 ## 🚀 About Me  
