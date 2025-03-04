@@ -8,7 +8,9 @@
 ## 🚀 About Me      
 - 🎨 All my projects are available on **[Behance](https://www.behance.net/samadhianupali)**.  
 - ✍️ I write about UI/UX on **[Medium](https://medium.com/@samadhianupali)**.  
+- 🌐 Check out my portfolio: **[My Portfolio](https://samadhianupali.github.io/MYPORTFOLIO1/)**  
 - 📩 How to reach me: **samadhianupali@gmail.com**  
+
 
 ---
 
