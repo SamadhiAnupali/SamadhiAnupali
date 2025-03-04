@@ -8,7 +8,7 @@
 ## 🚀 About Me      
 - 🎨 All my projects are available on **[Behance](https://www.behance.net/samadhianupali)**.  
 - ✍️ I write about UI/UX on **[Medium](https://medium.com/@samadhianupali)**.  
-- 🌐 Check out my portfolio: **[My Portfolio](https://samadhianupali.github.io/MYPORTFOLIO1/)**  
+- 🌐 Check out my portfolio: **[Portfolio](https://samadhianupali.github.io/MYPORTFOLIO1/)**  
 - 📩 How to reach me: **samadhianupali@gmail.com**  
 
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">📲 Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="blank">
+<a href="[https://linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/samadhi-anupali-65a25824b/)" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://instagram.com/YOUR-INSTAGRAM-ID" target="blank">
