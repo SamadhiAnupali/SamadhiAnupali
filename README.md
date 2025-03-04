@@ -4,6 +4,7 @@
 
 ### Creative UI/UX Designer | Frontend Developer | Tech Enthusiast  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saduni9&label=Profile%20views&color=red&style=flat" alt="saduni9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamadhiAnupali&label=Profile%20views&color=0e75b6&style=flat" alt="SamadhiAnupali" /> </p>
 
 
 
