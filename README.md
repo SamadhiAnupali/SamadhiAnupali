@@ -1,4 +1,5 @@
 # Hi 👋, I'm Samadhi Anupali Jayasinghe  
+<h3 align="center">Undergraduate at University of Moratuwa, Faculty of Information Technology.</h3>
 
 ### Creative UI/UX Designer | Frontend Developer | Tech Enthusiast  
 
